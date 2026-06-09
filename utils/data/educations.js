@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor Degree - BSIT",
+    duration: "2023 - Present",
+    institution: "Bulacan State Agricultural University",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Senior High School - STEM Strand",
+    duration: "2021 - 2023",
+    institution: "San Miguel National High School",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Junior High School",
+    duration: "2017 - 2021",
+    institution: "San Miguel National High School",
   }
 ]
